@@ -70,7 +70,7 @@
     
     "require": {
         "php": "^8.2",
-        "guzzlehttp/guzzle": "^7.*",
+        "guzzlehttp/guzzle": "7.*",
         "composer-runtime-api": "^2.0"
     },
     
